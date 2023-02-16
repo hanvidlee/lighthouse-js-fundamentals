@@ -1,0 +1,5 @@
+constsayHello  = function (me) {
+  console.log("Hello, " + name);
+}
+
+sayHello("hanvid");
